@@ -49,3 +49,7 @@ The code is developed in Visual Studio Code, optimized for readability and maint
 ## Final Notes
 For further details on the implementation and specific functions, please refer to the comments within the code files. Enjoy exploring and solving the mystery in **Clue**!
 
+
+https://github.com/cyrilbouharb/Clue-Text-Based-Game/assets/55791197/13b2cd84-cc6d-4ca4-a220-9758ea05568a
+
+
